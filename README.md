@@ -1,3 +1,5 @@
+This fork is archived, as it was as a joke for a friend.
+
 # Code 4 U <3
 
 ## ¡Bienvenido a este pequeño proyecto dedicado a Vianca! 🌸
